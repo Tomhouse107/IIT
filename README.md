@@ -56,7 +56,7 @@ I’m not sure how much I agree with this test. I would say that I am able to ha
 My project shall be to create an app that’s purpose is to reduce people texting and driving on the road. The aim is to increase safety in a society where technology is becoming a distraction. The app will consist of a text-to-speech service where the recipient of a message or notification has their text read aloud so that they can remain focused on driving. The driver will receive a notification and have the option to ignore or ‘answer the text’. If they choose to answer, our technology will read aloud the text with options for the driver to reply or not.
 
 #### Motivation
-In todays age we have technology everywhere. It is a simple and easy distraction that can often cause more harm than good if not respected. One place this is apparent is when people choose to text and drive. I have caught myself looking down to see my messages when hearing my phone beep while driving. This is dangerous and we need a solution. ‘Over 64% of road accidents in the United States have mobiles involved in one way or another’. This is 1.6 million people per year in the US alone.
+In todays age we have technology everywhere. It is a simple and easy distraction that can often cause more harm than good if not respected. One place this is apparent is when people choose to text and drive. I have caught myself looking down to see my messages when hearing my phone beep while driving. This is dangerous and we need a solution. (1) ‘Over 64% of road accidents in the United States have mobiles involved in one way or another’. This is 1.6 million people per year in the US alone.
 
 #### Description
 Technology is used to make life easier and solve problems. We can use technology to build a safer environment where we eliminate human factors and risk. Frankly, too many car accidents are caused each year by people who are irresponsibly distracted. We understand that driving can be boring and tedious and you can almost look for any distraction to change it up a little bit, but looking at your phone to check Facebook or to message your friends is not the way to do it. It is tempting to use your phone while driving and so the easiest thing to do is to remove the temptation. This is what our app is designed to do. It will keep eyes on the road and the attention where it is most necessary. The way the app works, is that once it is installed, it shall be linked up to your favourite messaging services. Then once you receive a message, you will be notified via audio, but your screen will not light up with a notification. Now a choice will be made to ‘answer the text’ if you are driving leisurely or if you’re in a tricky situation, you can ‘decline the text’ so that you can focus on the road.
@@ -75,6 +75,9 @@ We will need programmers who can develop apps and developers who can create our 
 
 #### Outcome
 The desired outcome is for the app to be successful and therefore create a safer driving environment. Hopefully if the app became mainstream then we could see a noticeable decrease in texting related car accidents. The technology could be used and applied to different things to reduce distraction. Such as putting your phone in a mode people can see when you are busy so they know not to disturb you. This could be used for when someone is studying, or at the hospital or even in a meeting.
+
+###### Reference
+Icebike.org. 2020. The 25 Scariest Texting And Driving Accident Statistics. [online] Available at: <https://www.icebike.org/texting-and-driving/> [Accessed 23 March 2020].
 
 # And Finally A Picture Of Me
 ![Picture Of Me](/IMG_1841.JPG)
