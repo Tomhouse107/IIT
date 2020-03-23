@@ -1,4 +1,4 @@
-![](src)
+![Pic](C:\Users\Tomas\Desktop\IT BACHELOR\Unit 1 - Intro to IT\Week 3)
 ## Tomas House's Profile
 
 Here you will learn about my life, my personality and my project ideas.
