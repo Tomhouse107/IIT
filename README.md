@@ -2,9 +2,8 @@
 ## Tomas House's Profile
 
 Here you will learn about my life, my personality and my project ideas.
-![pic alt]()
+![Picture Of Me](/IMG_1841.JPG)
 ### About Me
-![Creativity Test](https://user-images.githubusercontent.com/61816032/77314883-44f6eb00-6d52-11ea-8227-d1afb581e3ac.JPG)
 
 #### Background Information
 My names Tomas. I’m 21 years old and I’m from a town just outside of North London. I now live in Australia (Brisbane to be precise) with my partner and her sister. In terms of hobbies, I enjoy sport a lot, including soccer and weightlifting. I want to soon take up boxing or muay thai but just haven’t gotten around to it yet. An interesting fact about me would be that I’m currently looking into and trying to set up my own alcohol distillery with aims to turn it into a business in the future.
