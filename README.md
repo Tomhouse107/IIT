@@ -2,7 +2,7 @@
 ## Tomas House's Profile
 
 Here you will learn about my life, my personality and my project ideas.
-![pic alt](C:\Users\Tomas\Desktop\IT BACHELOR\Unit 1 - Intro to IT\Week 3)
+![pic alt]()
 ### About Me
 ![Creativity Test](https://user-images.githubusercontent.com/61816032/77314883-44f6eb00-6d52-11ea-8227-d1afb581e3ac.JPG)
 
