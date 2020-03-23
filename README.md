@@ -2,7 +2,7 @@
 ## Tomas House's Profile
 
 Here you will learn about my life, my personality and my project ideas.
-### About Me
+## About Me
 
 #### Background Information
 My names Tomas. I’m 21 years old and I’m from a town just outside of North London. I now live in Australia (Brisbane to be precise) with my partner and her sister. In terms of hobbies, I enjoy sport a lot, including soccer and weightlifting. I want to soon take up boxing or muay thai but just haven’t gotten around to it yet. An interesting fact about me would be that I’m currently looking into and trying to set up my own alcohol distillery with aims to turn it into a business in the future. Another interesting fact would be that I spent a few days trying to write my own HTML for my own website and eventually got lost.
@@ -10,7 +10,7 @@ My names Tomas. I’m 21 years old and I’m from a town just outside of North L
 #### Education History
 My education history is a bit of a jumbled mess as my path has chopped and changed multiple times. I started out in a Chemical Engineering degree at the University of Surrey in the UK. I was inclined to do this degree because it put all the subjects I enjoyed at school, chemistry, mathematics and physics, all in one area. Unfortunately, the course didn’t live up to my expectations and the content felt more like a chore than the study I anticipated. I left the university and came over to Brisbane in May 2018 and took on a business certificate. As much as I enjoyed the subject, I didn’t see myself studying it long term. That’s how I ended up in information technology. I have always had a fondness for IT but for one reason or another I had never considered it a viable pathway for me. So far, I’m loving the course, albeit, a lot of the content is above anything I’ve done before with computers so it’s rather daunting.
 
-### IT
+## IT
 #### My Interest in IT
 As I have mentioned previously, IT has always been something I’ve enjoyed, I just never really gave it much more thought than that. I have always been the family “tech guy” even though I’m pretty sure most of the things I can do are minor. Alas, it has given me some encouragement to try the subject in greater detail and maybe make a career out of it. Or at least it will always be a handy tool with how technology based our society is nowadays.
 If I could choose an area that excites me the most, I would probably have to pick learning how to code in a new language. As difficult as it may be, being a rookie, I find it very interesting and especially satisfying when I finally figure out what something means after spending an extraordinary amount of time trying to make it work.
@@ -21,7 +21,7 @@ I chose RMIT for a few reasons. The main and most important being the wonderful 
 #### What I Want From The Course
 I’m sure if I was to look in depth at the curriculum, I could see what is going to be taught in the course, however that takes the fun out of it. During the degree I hope to learn everything IT. I would say my preferences are to learn coding and programming languages as well as how IT can be used to make a more sustainable world. This is something I care quite a lot about and I hope someday I can be involved in something great that involves the two.
 
-### Ideal Job
+## Ideal Job
 [Link to Job](https://www.seek.com.au/job/41169773?type=standout#searchRequestToken=99938761-541f-4b39-80f2-97bd6a14b737)
 #### Job Description
 This is a job that I would ideally go for if given the opportunity. It’s a junior Developer job. This job could be something that you could get as a graduate or after having a few years under your belt. It involves developing, testing and maintaining software solutions using a range of programming languages. These include C#, ASP.NET, CSS and JavaScript. The main duties include converting designs into products and analysing existing code for errors or defects. I like the idea of problem solving and developing something from the ground up. It seems like a rewarding process to see all the way through until a final product.
@@ -31,7 +31,7 @@ For experience, the job entails someone to be confident with C#, ASP.NET, Web Fo
 
 As a person who is only just starting to learn code, this is obviously something that I need to develop before I could apply for the job. I have the soft skills required as I have experience through previous occupations. I have developed customer service skills, communication skills and have a professional manner. Regardless I have a long time to perfect these skills whilst I learn how to become a better programmer. I will learn how to code and use other IT programs through my degree as well as through other online courses and websites.
 
-### Personality Tests
+## Personality Tests
 
 #### 16 Personalities Test
 According to this test I am a mediator. This means I am idealistic yet flexible and open-minded. It also means that I am creative and I combine my creativity with my open-minded nature. The study says that I am hard-working and dedicated when challenges pop up that would deter most. On the flip side, the test mentions some of my negative characteristics such as being impractical. Sometimes being idealistic can set me up for disappointment and therefore my morale could deteriorate. I agree with aspects of the test results but not all of them (which is expected). For example I believe I am a hard worker, and I can also think too simply sometimes as we are not in an ideal world. However, I don’t believe that I don’t like to see the bigger picture. Contrary to that, I often only get through things by seeing the end goal.
@@ -50,7 +50,7 @@ I’m not sure how much I agree with this test. I would say that I am able to ha
 
 ![Creativity Test](https://user-images.githubusercontent.com/61816032/77314883-44f6eb00-6d52-11ea-8227-d1afb581e3ac.JPG)
 
-### My Project
+## My Project
 
 #### Overview
 My project shall be to create an app that’s purpose is to reduce people texting and driving on the road. The aim is to increase safety in a society where technology is becoming a distraction. The app will consist of a text-to-speech service where the recipient of a message or notification has their text read aloud so that they can remain focused on driving. The driver will receive a notification and have the option to ignore or ‘answer the text’. If they choose to answer, our technology will read aloud the text with options for the driver to reply or not.
@@ -76,5 +76,5 @@ We will need programmers who can develop apps and developers who can create our 
 #### Outcome
 The desired outcome is for the app to be successful and therefore create a safer driving environment. Hopefully if the app became mainstream then we could see a noticeable decrease in texting related car accidents. The technology could be used and applied to different things to reduce distraction. Such as putting your phone in a mode people can see when you are busy so they know not to disturb you. This could be used for when someone is studying, or at the hospital or even in a meeting.
 
-## And Finally A Picture Of Me
+# And Finally A Picture Of Me
 ![Picture Of Me](/IMG_1841.JPG)
