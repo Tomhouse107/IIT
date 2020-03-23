@@ -48,6 +48,8 @@ The following test describes me as a complex and abstract mind. This means I can
 
 I’m not sure how much I agree with this test. I would say that I am able to hand and manipulate information, but I’m not convinced that I can’t see new connections between ideas. I would say that this is one of my strengths. The inaccuracy of the test could be purely down to the limited number of questions as creativity is such a complicated characteristic. I probably wouldn’t use this test to identify good potential fits for team members whom I can work with. I would need to take a few more creativity tests to see what type of creativity I should be looking for in a team.
 
+![Creativity Test](https://user-images.githubusercontent.com/61816032/77314883-44f6eb00-6d52-11ea-8227-d1afb581e3ac.JPG)
+
 ### My Project
 
 #### Overview
@@ -56,4 +58,23 @@ My project shall be to create an app that’s purpose is to reduce people textin
 #### Motivation
 In todays age we have technology everywhere. It is a simple and easy distraction that can often cause more harm than good if not respected. One place this is apparent is when people choose to text and drive. I have caught myself looking down to see my messages when hearing my phone beep while driving. This is dangerous and we need a solution. ‘Over 64% of road accidents in the United States have mobiles involved in one way or another’. This is 1.6 million people per year in the US alone.
 
+#### Description
+Technology is used to make life easier and solve problems. We can use technology to build a safer environment where we eliminate human factors and risk. Frankly, too many car accidents are caused each year by people who are irresponsibly distracted. We understand that driving can be boring and tedious and you can almost look for any distraction to change it up a little bit, but looking at your phone to check Facebook or to message your friends is not the way to do it. It is tempting to use your phone while driving and so the easiest thing to do is to remove the temptation. This is what our app is designed to do. It will keep eyes on the road and the attention where it is most necessary. The way the app works, is that once it is installed, it shall be linked up to your favourite messaging services. Then once you receive a message, you will be notified via audio, but your screen will not light up with a notification. Now a choice will be made to ‘answer the text’ if you are driving leisurely or if you’re in a tricky situation, you can ‘decline the text’ so that you can focus on the road.
+
+Answering the text, effectively transfers the text into a call. Audio shall be presented stating who the message is from, and what they’ve said. After the audio clip is finished you can choose to reply to the sender via the ‘reply’ command. If you don’t feel like you need to respond you can just carry on driving as though nothing has happened. You can also link your music streaming applications and then play specific songs or playlists via speech. Once again, you are not tempted to look down at your phone.
+
+Another feature the app will implement is customisability. This allows the driver to select what services that the phone will present while driving, if you have a lot of distracting messages coming from a group chat, you can just mute that chat for the duration of your drive. You can also choose certain ‘whitelisted’ people who you can receive messages from and if you get a message from someone else, the phone will not transfer text to audio. With the app holders permission, the app will allow you to showcase your details, letting others know if you are or aren’t taking messages right now as you are driving.
+
+The app will have a ‘start’ option and then will only stop once you have come to a stop and press the ‘stop’ button.
+
+#### Tools
+The software needed is a text-to-speech programme. We could build off or use a similar model to Amazon’s ‘Alexa’ or Apples ‘Siri’. We would need to integrate a software that allows us to link our services to Facebook, iMessage, Spotify etc… . We will need app interface designers to make a seamless and simple design that people will enjoy to use. A marketing team is needed to push the product once its made so that people know the benefits of using the app and the dangers that texting and driving presents.
+
+#### Skills Required
+We will need programmers who can develop apps and developers who can create our own text-to-speech programme. If we work off other software that is already out in the market then it is more about user interface design and connectivity. We can use the mobiles built-in location tracker to monitor whether someone is driving and whether the app should be in use. We need a team who can make small changes to software but link it in a way that hasn’t been done before.
+
+#### Outcome
+The desired outcome is for the app to be successful and therefore create a safer driving environment. Hopefully if the app became mainstream then we could see a noticeable decrease in texting related car accidents. The technology could be used and applied to different things to reduce distraction. Such as putting your phone in a mode people can see when you are busy so they know not to disturb you. This could be used for when someone is studying, or at the hospital or even in a meeting.
+
+## And Finally A Picture Of Me
 ![Picture Of Me](/IMG_1841.JPG)
