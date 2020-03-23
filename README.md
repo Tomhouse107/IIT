@@ -48,7 +48,7 @@ The following test describes me as a complex and abstract mind. This means I can
 
 I’m not sure how much I agree with this test. I would say that I am able to hand and manipulate information, but I’m not convinced that I can’t see new connections between ideas. I would say that this is one of my strengths. The inaccuracy of the test could be purely down to the limited number of questions as creativity is such a complicated characteristic. I probably wouldn’t use this test to identify good potential fits for team members whom I can work with. I would need to take a few more creativity tests to see what type of creativity I should be looking for in a team.
 
-![Creativity Test](https://user-images.githubusercontent.com/61816032/77314883-44f6eb00-6d52-11ea-8227-d1afb581e3ac.JPG)
+![Creativity Test Results](https://user-images.githubusercontent.com/61816032/77314883-44f6eb00-6d52-11ea-8227-d1afb581e3ac.JPG)
 
 ## My Project
 
